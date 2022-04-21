@@ -1,0 +1,20 @@
+La detección temprana de las enfermedades y plagas es un factor clave para conseguir
+erradicar o minimizar los perjuicios que ello pueda ocasionar. Aprovechando que esta
+problemática presenta generalmente síntomas visibles en los cultivos se puede hacer uso de
+las Redes Neuronales Convolucionales con el objetivo de entrenar modelos que posibiliten su
+detección. Además, teniendo en cuenta los avances tecnológicos relacionados al hardware de
+los teléfonos móviles se puede hacer uso de los mismos para, a través de sus cámaras de alta
+definición y de sus procesadores, obtener las imágenes y correr las predicciones sobre ellas
+en tiempo real en el dispositivo.
+Las Redes Neuronales Convolucionales son una de las técnicas utilizadas hoy en día para
+tareas de detección de objetos en imágenes, debido en gran parte a su elevada precisión para
+realizar esa tarea [9]. Existe numerosa bibliografía sobre las mismas y se encuentran
+disponibles diferentes herramientas gratuitas, entre las que se encuentran TensorFlow 1 y
+TensorFlow Lite 2 , los cuales permiten, entre otras cosas, el entrenamiento y uso de modelos
+de Machine Learning en dispositivos con recursos limitados, como los teléfonos móviles.
+Considerando, además, que el porcentaje de la población que cuenta con un teléfono
+inteligente crece año tras año [10] y que no se han encontrado soluciones integrales que
+abarquen el proceso de entrenamiento y uso de modelos de Machine Learning capaces de
+detectar objetos en imágenes se propone el desarrollo de una plataforma cloud que, mediante
+el uso de Redes Neuronales Convolucionales, posibilite la detección en tiempo real de
+enfermedades y plagas en cultivos a través de la cámara del teléfono celular
