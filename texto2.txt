@@ -1,0 +1,19 @@
+In many machine learning applications, available datasets are sometimes incomplete, noisy
+or affected by artifacts. In supervised scenarios, it could happen that label information is of
+low quality, which includes unbalanced training sets, noisy labels and other problems.
+Moreover, in practice, it is very common that available data samples are not enough to derive
+useful supervised or unsupervised classifiers. All these issues are commonly referred as the
+low-quality data problem. Machine learning researchers and practitioners have been working
+on various strategies to correctly handle the low-quality problem in recent years. Far from
+being solved, this problem still represents a fundamental and classic challenge in the
+artificial intelligence community.
+The aim of this Special Issue was to collect novel contributions on machine learning methods
+for low-quality datasets, to contribute to the dissemination of new ideas to solve this
+challenging problem, and to provide clear examples of application in real scenarios. Despite
+the COVID-19 crisis and lockdowns in most countries, this Special Issue attracted great
+attention among researchers worldwide. A total number of twenty-one papers were submitted
+and fifteen of them were accepted after appropriate revisions. We were pleasantly surprised
+by the diversity of nationalities of contributors and the variety of the addressed problems in
+applied sciences ranging from medical and health applications through specific industrial
+case study examples. The authors of the published papers are from nine countries located in
+Europe, America, Africa and Asia.
