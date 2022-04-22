@@ -17,4 +17,4 @@ inteligente crece año tras año [10] y que no se han encontrado soluciones inte
 abarquen el proceso de entrenamiento y uso de modelos de Machine Learning capaces de
 detectar objetos en imágenes se propone el desarrollo de una plataforma cloud que, mediante
 el uso de Redes Neuronales Convolucionales, posibilite la detección en tiempo real de
-enfermedades y plagas en cultivos a través de la cámara del teléfono celular
+enfermedades y plagas en cultivos a través de la cámara del teléfono celular.
